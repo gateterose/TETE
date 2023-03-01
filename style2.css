@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    padding: 0px;
+    margin: 5px;
+    align-items: center;
+}
+.Home{
+    font-size: 30px;
+    font-family: cursive;
+    color: green;
+
+}
+.tag{
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+}
+button{
+    background-color: green;
+    color: azure;
+    border-radius: 10px;
+    border: none;
+    max-height: fit-content;
+    padding: 5px;
+}
